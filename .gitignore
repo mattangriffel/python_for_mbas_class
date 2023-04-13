@@ -29,5 +29,8 @@ __pycache__/
 # Jupyter Notebook files
 .ipynb_checkpoints
 
-# Ignore data files
+# Data files
 data/
+
+# Sensitive API Keys
+api_keys.py
