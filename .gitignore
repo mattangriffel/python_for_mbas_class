@@ -28,3 +28,6 @@ __pycache__/
 
 # Jupyter Notebook files
 .ipynb_checkpoints
+
+# Ignore data files
+data/
